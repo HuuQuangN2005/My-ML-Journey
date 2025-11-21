@@ -1,1 +1,1 @@
-# My-Journey-into-Artificial-Intelligence
+# My-ML-Journey
